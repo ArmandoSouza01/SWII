@@ -1,5 +1,7 @@
 package gerenciador;
 
+/** Armando Righi de Souza - CB302038X*/
+
 public class Book {
     protected int id;
     protected String title;
